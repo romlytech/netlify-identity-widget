@@ -10,7 +10,7 @@
   --providerAltColorGitLab: #b03320;
   --providerColorBitbucket: #205081;
   --providerAltColorBitbucket: #14314f;
-  --fontFamily: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+  --fontFamily: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   --basePadding: 32px;
 }
